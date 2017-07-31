@@ -1,0 +1,17 @@
+Package: sendsay
+Type: Package
+Title: Package for access to Sendsay API
+Version: 0.0.1
+Author: zouxuoz
+Maintainer: zouxuoz <zouxuoz@gmail.com>
+Description: Package for access to Sendsay API.
+License: MIT
+LazyData: true
+Suggests:
+  testthat
+Imports:
+  httr,
+  jsonlite
+Encoding: UTF-8
+RoxygenNote: 6.0.1
+Roxygen: list(markdown = TRUE)
